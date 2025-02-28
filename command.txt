@@ -1,0 +1,8 @@
+# to setup git
+git config --global user.email "Email-ID"
+git config --global user.name "username"
+
+# to remove already setup email
+git config --global --unset user.email "present email"
+git config --global --unset user.name "username"
+
